@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+from django.conf.urls import include
 import os
 import sys
 
